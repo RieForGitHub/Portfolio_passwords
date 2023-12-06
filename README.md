@@ -19,5 +19,11 @@ The dataset was obtained from [Bad Passwords (Never Use them)](https://www.kaggl
 | font_size | Used to create the graphic for KIB      |    double |
 
 ## Asking Questions
+To find answers on how to improve the safety of passwords and help people in creating more difficult-to-crack passwords, we should consider the following questions:
 
+1. Do people prefer creating passwords using numbers, letters or a combination of both?
+2. What categories of passwords do people commonly use?
+3. Which passwords are the most popular and are they easy to guess?
+4. Which types of passwords are more difficult to crack?
+5. Is there a correlation between password strength or length and the time needed to crack these passwords?
 
