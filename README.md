@@ -1,7 +1,7 @@
 # Portfolio_passwords
 
 ## About
-This dataset focuses on short passwords and the ease with which they can be cracked in a short amount of time. It aims to answer questions about the types of passwords we should avoid, identify the most commonly used passwords, and understand the time it takes for hackers to crack them and gain access to user accounts. The data for this project was obtained from [Bad Passwords (Never Use them)](https://www.kaggle.com/datasets/sujaykapadnis/bad-passwords-never-use-them). The analysis was conducted using SQL and Tableau.
+This dataset focuses on short passwords and the ease with which they can be cracked in a short amount of time. It aims to answer questions about the types of passwords we should avoid, identify the most commonly used passwords, and understand the time it takes for hackers to crack them and gain access to user accounts. The data for this project was obtained from [Bad Passwords (Never Use them)](https://www.kaggle.com/datasets/sujaykapadnis/bad-passwords-never-use-them). The analysis was conducted using Excel, SQL and Tableau.
 
 ## About Data
 The dataset was obtained from [Bad Passwords (Never Use them)](https://www.kaggle.com/datasets/sujaykapadnis/bad-passwords-never-use-them). It includes a list of passwords used by users of the 'Information is Beautiful' group. The dataset comprises 9 columns and 499 rows. Citation("tidytuesdayR")
@@ -26,4 +26,11 @@ To find answers on how to improve the safety of passwords and help people in cre
 3. Which passwords are the most popular and are they easy to guess?
 4. Which types of passwords are more difficult to crack?
 5. Is there a correlation between password strength or length and the time needed to crack these passwords?
+
+## Data Cleaning
+A quick data cleaning step was performed in Excel on this dataset. It was necessary to identify and remove extraneous numbers between 'rank' and 'rank_alt' and delete any unnecessary columns.
+
+## Data Analysis
+The code used for data analysis is outlined in the [passwords_SQL_code](https://github.com/RieForGitHub/Portfolio_passwords/blob/main/passwords_SQL_code.txt). Data analysis was conducted using SQL from Google BigQuery.
+
 
