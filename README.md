@@ -44,5 +44,5 @@ Since the average length of passwords across categories is very close, and there
 
 ![Dashboard 2](https://github.com/RieForGitHub/Portfolio_passwords/blob/main/Dashboard%202.png)
 
-
+<img src="https://github.com/RieForGitHub/Portfolio_passwords/blob/main/Dashboard%202.png" width="600">
 
