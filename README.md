@@ -39,3 +39,10 @@ The data suggests that many popular passwords involve clicking keys next to each
 
 ![Dashboard 1](https://github.com/RieForGitHub/Portfolio_passwords/blob/main/Dashboard%201.png)
 
+
+Since the average length of passwords across categories is very close, and there is a significant influence of different categories on the time it takes to crack these passwords, it was necessary to create a new chart. This chart aims to better illustrate the relationship between the length of passwords and the time required to crack them:
+
+![Dashboard 2](https://github.com/RieForGitHub/Portfolio_passwords/blob/main/Dashboard%202.png)
+
+
+
