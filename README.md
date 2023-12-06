@@ -33,4 +33,9 @@ A quick data cleaning step was performed in Excel on this dataset. It was necess
 ## Data Analysis
 The code used for data analysis is outlined in the [passwords_SQL_code](https://github.com/RieForGitHub/Portfolio_passwords/blob/main/passwords_SQL_code.txt). Data analysis was conducted using SQL from Google BigQuery.
 
+## Data Visualization with Tableau
+To make things clear, I used Tableau to show the most important results on a dashboard. 
+The data suggests that many popular passwords involve clicking keys next to each other on the keyboard, likely for easy remembering. People don't often use passwords with both numbers and letters, which are harder to crack. The analysis also hints at a connection between password strength and the chosen password categories.
+
+![Dashboard 1](https://github.com/RieForGitHub/Portfolio_passwords/blob/main/Dashboard%201.png)
 
