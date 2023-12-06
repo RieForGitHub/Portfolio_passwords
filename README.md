@@ -17,4 +17,5 @@ The dataset was obtained from [Bad Passwords (Never Use them)](https://www.kaggl
 | rank_alt     | Rank 2 | double |
 | strength     | Strength = quality of password where 10 is highest, 1 is lowest      |   double |
 | font_size | Used to create the graphic for KIB      |    double |
+citation("tidytuesdayR")
 
